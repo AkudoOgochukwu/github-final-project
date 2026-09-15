@@ -1,4 +1,8 @@
-Updating 5605041..c03bc7c
+$ git checkout main
+Switched to branch 'main'
+
+$ git merge bug-fix-typo
+Updating 5605041..4ccc78d
 Fast-forward
- README.md | 3 +++
- 1 file changed, 3 insertions(+)
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
