@@ -1,20 +1,17 @@
 $ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1
 {
   "url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1",
-  "id": 1234567890,
-  "title": "Fix typo in README",
+  "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/1",
   "state": "open",
+  "title": "Fix typo in README",
   "head": {
     "label": "AkudoOgochukwu:bug-fix-revert",
-    "ref": "bug-fix-revert",
     "repo": {
-      "full_name": "AkudoOgochukwu/github-final-project",
-      "fork": true
+      "full_name": "AkudoOgochukwu/github-final-project"
     }
   },
   "base": {
-    "label": "ibm-developer-skills-network: main",
-    "ref": "main",
+    "label": "ibm-developer-skills-network:main",
     "repo": {
       "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
     }
