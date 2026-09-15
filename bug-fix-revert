@@ -4,14 +4,14 @@ $ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introd
   "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/1",
   "state": "open",
   "title": "Fix typo in README",
+  "user": {
+    "login": "AkudoOgochukwu"
+  },
   "head": {
-    "label": "AkudoOgochukwu:bug-fix-revert",
-    "repo": {
-      "full_name": "AkudoOgochukwu/github-final-project"
-    }
+    "ref": "bug-fix-revert"
   },
   "base": {
-    "label": "ibm-developer-skills-network:main",
+    "ref": "main",
     "repo": {
       "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
     }
