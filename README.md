@@ -17,3 +17,4 @@ _© 2022 XYZ, Inc._
 
 ## Fix
 Corrected typo in documentation.
+Revert commit
